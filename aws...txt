@@ -1,0 +1,13 @@
+iam--
+vpc--virtual private cloud
+Ec2--eps-8gb min size (you can 
+s3
+ha acheteture
+monatring
+routing
+database
+mfa ---
+
+
+read aws doc
+
